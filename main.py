@@ -1,15 +1,15 @@
-import carro
+import carro, moto
 
-uno_vermelho = carro.Carro('vermelho',4,'Flex',1.0,0,False,0)
+uno_vermelho = carro.Carro('Vermelho',4,'flex',1.0)
+uno_preto=carro.Carro('Preto',2,'Gás',1.4)
+
+
+print(uno_preto.is_ligado)
+
 uno_vermelho.ligar()
-help(uno_vermelho.abastecer(1))
 
-print('A quantidade de combustivel do carro é: {}'.format(uno_vermelho.qtd_combustivel))
+moto1= moto.Moto('Azul','flex',600,2)
 
-
-uno_preto =carro.Carro('preto',2,'Flex',1.0,0,False,0)
-uno_preto.desligar()
-print('A quantidade de combustivel do carro é: {}'.format(uno_preto.qtd_combustivel))
-uno_preto.acelerar(20)
-uno_preto.ligar()
-uno_preto.acelerar()
+print('{} Cilindradas'.format(moto1.potencia))
+print(moto1.is_ligado)
+print(moto1.qtd_passageiros)
