@@ -1,15 +1,28 @@
-import carro, moto
+from calculadora import Calculadora
+from comodo import Comodo
 
-uno_vermelho = carro.Carro('Vermelho',4,'flex',1.0)
-uno_preto=carro.Carro('Preto',2,'Gás',1.4)
+calc = Calculadora()
 
+comodo = Comodo(
+    input('Qual a largura do cômodo? '),
+    input('Qual a profundidade do cômodo? ')
+)
 
-print(uno_preto.is_ligado)
+print(
+    "A area das paredes é:",
+    calc.calcular_area_paredes(
+        comodo
+    )
+)
 
-uno_vermelho.ligar()
+print(
+    'A área do teto é:',
+    calc.calcular_area_teto(
+        comodo
+    )
+)
 
-moto1= moto.Moto('Azul','flex',600,2)
-
-print('{} Cilindradas'.format(moto1.potencia))
-print(moto1.is_ligado)
-print(moto1.qtd_passageiros)
+print(
+    'A litragem de tinta necessária é:',
+    calc.calcular_litragem_necessaria()
+)
