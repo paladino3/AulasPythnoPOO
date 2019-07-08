@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f42b21b1-abd5-477c-82f6-f9d8a209bff0" name="Default Changelist" comment="">
+    <list default="true" id="f42b21b1-abd5-477c-82f6-f9d8a209bff0" name="Default Changelist" comment="test">
       <change afterPath="$PROJECT_DIR$/DevMidia/Aula21.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DevMidia/Aula22.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DevMidia/Aula23.py" afterDir="false" />
@@ -18,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/xampp/htdocs/Aula26.Projeto01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
                 <element signature="e#71#86#0" expanded="true" />
               </folding>
@@ -77,18 +68,18 @@
         <option value="$PROJECT_DIR$/DevMidia/Aula16.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula17.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula20.py" />
-        <option value="C:/xampp/htdocs/Aula20.py" />
-        <option value="C:/xampp/htdocs/Aula24.py" />
+        <option value="$PROJECT_DIR$/../Aula20.py" />
+        <option value="$PROJECT_DIR$/../Aula24.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula24.1.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula24.Ex2.py" />
-        <option value="C:/xampp/htdocs/Aula24.Ex2.py" />
+        <option value="$PROJECT_DIR$/../Aula24.Ex2.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula24.py" />
-        <option value="C:/xampp/htdocs/Aula25.py" />
+        <option value="$PROJECT_DIR$/../Aula25.py" />
         <option value="$PROJECT_DIR$/DevMidia/htmlPag" />
         <option value="$PROJECT_DIR$/DevMidia/Aula25.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula26.0Projeto.py" />
+        <option value="$PROJECT_DIR$/../Aula26.Projeto01.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py" />
-        <option value="C:/xampp/htdocs/Aula26.Projeto01.py" />
       </list>
     </option>
   </component>
@@ -124,7 +115,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -148,8 +139,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula26.Projeto01">
-    <configuration name="Aula17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Aula18">
+    <configuration name="Aula18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMidia/Aula17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMidia/Aula18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/xampp/htdocs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:/xampp/htdocs/Aula25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Aula25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula18" />
         <item itemvalue="Python.Aula26.Projeto01" />
         <item itemvalue="Python.Aula25 (1)" />
         <item itemvalue="Python.Aula25" />
         <item itemvalue="Python.Aula24.Ex2" />
-        <item itemvalue="Python.Aula17" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +293,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13319239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13319239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -339,6 +330,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/carro.py" />
@@ -447,20 +442,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Django/__init__.py" />
-    <entry file="file://C:/xampp/htdocs/hi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/Aula20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../hi.py" />
+    <entry file="file://$PROJECT_DIR$/../Aula20.py" />
     <entry file="file://$PROJECT_DIR$/DevMidia/aula22.Ex2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -480,13 +463,7 @@
     <entry file="file://$PROJECT_DIR$/DevMidia/Aula22.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://C:/xampp/htdocs/Aula24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Aula24.py" />
     <entry file="file://$PROJECT_DIR$/DevMidia/Aula23.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -501,13 +478,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/Aula24.Ex2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Aula24.Ex2.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/cgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -515,17 +486,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/htmlPag" />
-    <entry file="file://C:/xampp/htdocs/Aula25.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#154#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../htmlPag" />
+    <entry file="file://$PROJECT_DIR$/../Aula25.py" />
     <entry file="file://$PROJECT_DIR$/DevMidia/Aula24.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -548,17 +510,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/Aula26.Projeto01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Aula26.Projeto01.py" />
     <entry file="file://$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
             <element signature="e#71#86#0" expanded="true" />
           </folding>

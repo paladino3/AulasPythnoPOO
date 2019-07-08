@@ -18,3 +18,5 @@ printHeader()
 
 print("<h2>Insert in guestbook(Livro)</h2>")
 print("<form method='post' action='Aula26.Projeto01.py' >")
+print("Test")
+printFooter()
