@@ -18,7 +18,7 @@ printHeader()
 
 print("<h2>Método post em video</h2>")
 
-print("<form method='POST' action='aula22.1.py'><p><input type='radio' name='rblSex' value='Male'>Male<br><input type='radio' name='rblSex' value='Famale'>Famale<br><input type='submit' value='Submit'/></p></form>")
+print("<form method='POST' action='aula22.Ex2.py'><p><input type='radio' name='rblSex' value='Male'>Male<br><input type='radio' name='rblSex' value='Famale'>Famale<br><input type='submit' value='Submit'/></p></form>")
 
 pairs = cgi.parse()
 

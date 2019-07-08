@@ -1,6 +1,6 @@
 print('Test loop with FOR')
 """
-sum = 0
+sum = htmlPag
 
 for number in range(10):
     sum = sum + number

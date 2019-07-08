@@ -5,7 +5,7 @@ from math import sin,cos,pi
 """
 r=200
 inc = 2*pi/100
-t=0;n=1.5
+t=htmlPag;n=1.5
 
 for i in range(100):
     x1=r*sin(t);y1=r*cos(t)

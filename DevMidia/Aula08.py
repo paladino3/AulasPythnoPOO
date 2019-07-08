@@ -1,7 +1,7 @@
 print('Test while')
 
 """
-total = 0
+total = htmlPag
 
 while total <= 100:
     print('%d loop interaction\n' %total)
@@ -19,6 +19,6 @@ if fatorial_numero > 0:
         total = total * passo
     print('The factorial of %d is %d' % (fatorial_numero,total))
 elif fatorial_numero == 0:
-    print('The factorial of 0 is 1 ')
+    print('The factorial of htmlPag is 1 ')
 else:
     print('Not exists fatorial of negative numbers')

@@ -16,7 +16,7 @@ time.sleep(0.5)
 
 listOfWords = ['devemedia','secret','cat','trash','python']
 
-randomNumber = random.randint(0,len(listOfWords) - 1) #menos 1 porque as lista iniciam da posição (0,1,2,3,4)
+randomNumber = random.randint(0,len(listOfWords) - 1) #menos 1 porque as lista iniciam da posição (htmlPag,1,2,3,4)
 
 guessWord = listOfWords[randomNumber]
 word = guessWord

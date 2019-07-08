@@ -5,7 +5,7 @@ print('Test Lists')
 """
 myList = [54,23,89,10,45,55,14,41,44,55]
 
-print('Position 0: ',myList[0])
+print('Position htmlPag: ',myList[htmlPag])
 print('Position 1: ',myList[1])
 print('Position 2: ',myList[2])
 print('Position 3: ',myList[3])
@@ -21,14 +21,14 @@ print('Quantity of items in myList is ',len(myList))
 """
 myNewList = []
 
-myNewList.insert(0,'Wesley')
+myNewList.insert(htmlPag,'Wesley')
 myNewList.insert(3,'Devmedia')
 myNewList.insert(1,'Londrina')
 myNewList.insert(2,'Curitiba')
 
 
 
-print('Position 0: ',myNewList[0])
+print('Position htmlPag: ',myNewList[htmlPag])
 print('Position 1: ',myNewList[1])
 print('Position 2: ',myNewList[2])
 print('Position 3: ',myNewList[3])

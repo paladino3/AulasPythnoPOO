@@ -19,7 +19,7 @@ printHeader()
 rowNumber = 0
 backgroundColor = "white"
 
-print("<table style='border:0'>")
+print("<table style='border:htmlPag'>")
 
 for item in os.environ.keys():
 

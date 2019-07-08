@@ -5,7 +5,7 @@
 print('Sorting and Searching Lists')
 print('Ordenações e buscas em Listas')
 """
-myList = [34, 5,44 ,25, 47 ,86, 0, 5,447 ,77 ,78 ,55 ,61 ,78 ,58 ,55 ,44 ,66 ]
+myList = [34, 5,44 ,25, 47 ,86, htmlPag, 5,447 ,77 ,78 ,55 ,61 ,78 ,58 ,55 ,44 ,66 ]
 
 print('\nItems in original order: ')
 

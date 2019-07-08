@@ -13,7 +13,7 @@ print('\nElement in position 3 ',myTuple[3])
 #myTuple[3] = 1.5 Error o Tuple nao suporta modicar os itens: são elementos fixos
 
 
-myTuple2 = 1, 'Fiat', 'Uno',1.0, '2019'
+myTuple2 = 1, 'Fiat', 'Uno',1.htmlPag, '2019'
 
 print('\nItems in myTuple: ',myTuple2)
 print('\nQuantity of items in myTuple is ',len(myTuple2))
