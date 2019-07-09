@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f42b21b1-abd5-477c-82f6-f9d8a209bff0" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/DevMidia/Aula21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevMidia/Aula22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevMidia/Aula23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevMidia/aula22.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevMidia/Aula26.Projeto02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevMidia/Aula27.Poo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonPOO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonPOO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevMidia/Aula20.py" beforeDir="false" afterPath="$PROJECT_DIR$/DevMidia/Aula20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DevMidia/Aula21.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,13 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py">
+        <entry file="file://$PROJECT_DIR$/DevMidia/Aula27.Poo1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-              <folding>
-                <element signature="e#71#86#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="459">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -79,21 +75,24 @@
         <option value="$PROJECT_DIR$/DevMidia/Aula25.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula26.0Projeto.py" />
         <option value="$PROJECT_DIR$/../Aula26.Projeto01.py" />
+        <option value="$PROJECT_DIR$/DevMidia/Aula26.Projeto02.py" />
         <option value="$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py" />
+        <option value="$PROJECT_DIR$/DevMidia/Aula27.Poo1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="703" />
-    <option name="y" value="107" />
-    <option name="width" value="1183" />
-    <option name="height" value="898" />
+    <option name="x" value="701" />
+    <option name="y" value="105" />
+    <option name="width" value="1185" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,7 +109,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula18">
+  <component name="RunManager" selected="Python.Aula26.Projeto01">
     <configuration name="Aula18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,8 +266,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula18" />
         <item itemvalue="Python.Aula26.Projeto01" />
+        <item itemvalue="Python.Aula18" />
         <item itemvalue="Python.Aula25 (1)" />
         <item itemvalue="Python.Aula25" />
         <item itemvalue="Python.Aula24.Ex2" />
@@ -290,15 +288,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13319239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1327609" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947146" weight="0.38418707" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947146" weight="0.23196605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,13 +361,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa888.368/setup.py" />
-    <entry file="file://$PROJECT_DIR$/DevMidia/Aula03.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DevMidia/Aula04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -503,21 +493,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Aula26.Projeto01.py" />
     <entry file="file://$PROJECT_DIR$/DevMidia/Aula25.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-2">
           <caret column="4" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Aula26.Projeto01.py" />
-    <entry file="file://$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py">
+    <entry file="file://$PROJECT_DIR$/DevMidia/Aula26.Projeto02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="486">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding>
             <element signature="e#71#86#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMidia/Aula26.Projeto01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+          <folding>
+            <element signature="e#71#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMidia/Aula03.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMidia/Aula27.Poo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
