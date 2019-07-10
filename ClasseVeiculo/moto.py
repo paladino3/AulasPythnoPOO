@@ -1,4 +1,5 @@
-import veiculo
+from ClasseVeiculo import veiculo
+
 
 class Moto(veiculo.Veiculo):
 

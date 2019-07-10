@@ -1,5 +1,5 @@
-from calculadora import Calculadora
-from comodo import Comodo
+from CalculadoraComodo.calculadora import Calculadora
+from CalculadoraComodo.comodo import Comodo
 
 calc = Calculadora()
 
