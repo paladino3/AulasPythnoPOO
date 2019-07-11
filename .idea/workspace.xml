@@ -63,19 +63,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py">
+        <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/jogo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="5" selection-start-line="4" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="135">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -148,6 +139,8 @@
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula31.Poo02.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py" />
+        <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula32.Poo01.py" />
+        <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/jogo.py" />
       </list>
     </option>
   </component>
@@ -210,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula35.InterfaceGraficaGUI02">
+  <component name="RunManager" selected="Python.Aula32.Poo01">
     <configuration name="Aula20" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,27 +217,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMidia/Aula20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula30.Poo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPOO" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula30.Poo02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,6 +259,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula31.Poo02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula32.Poo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPOO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula32.Poo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula32.Poo01" />
         <item itemvalue="Python.Aula35.InterfaceGraficaGUI02" />
         <item itemvalue="Python.Aula35.InterfaceGraficaGUI" />
         <item itemvalue="Python.Aula31.Poo02" />
         <item itemvalue="Python.Aula31.Poo01" />
-        <item itemvalue="Python.Aula30.Poo02" />
       </list>
     </recent_temporary>
   </component>
@@ -407,20 +400,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -574,7 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1146059239/builtins.py" />
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula27.Poo2.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1102337082/builtins.py" />
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula27.Poo1.py">
@@ -657,6 +635,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -664,10 +649,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1146059239/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        <state relative-caret-position="186">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula32.Poo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3682">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/jogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
