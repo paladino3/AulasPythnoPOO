@@ -1,5 +1,3 @@
-
-
 from tkinter import *
 
 class App:
@@ -8,10 +6,11 @@ class App:
         frame = Frame(master)#intanciando um frame para agrupar elementos em blocos
         frame.pack()#para ajustar os elemntos o pack é util
 
-        self.btquit = Button(frame, text = "Quit",fg="red", command = self.quit )
+        self.btquit = Button(frame, text = "Quit", fg="#0000ff", command = self.quit)
         self.btquit.pack(side=LEFT)
 
-        self.bthello = Button(frame, text="Hello", command=self.hello)
+
+        self.bthello = Button(frame, text="Hello", fg="#000000", command=self.hello)
         self.bthello.pack(side=LEFT)
 
     def quit(self):
