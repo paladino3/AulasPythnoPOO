@@ -56,6 +56,7 @@ class MyAppUI(Frame):
 
     def size30(self):
         self.label1.configure(font="Arial 30")
+
     def quit(self):
         self.master.destroy()
 
