@@ -19,8 +19,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula37.InterfaceGraficaGUI01.py">
           <provider selected="true" editor-type-id="text-editor" />
+=======
+        <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/jogo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
         </entry>
       </file>
     </leaf>
@@ -88,11 +97,16 @@
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula31.Poo02.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI0.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI03.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_Curso_Python_37.zip/lesson37_example-1.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula36.InterfaceGraficaGUI01.py" />
         <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula37.InterfaceGraficaGUI01.py" />
+=======
+        <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula32.Poo01.py" />
+        <option value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/jogo.py" />
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       </list>
     </option>
   </component>
@@ -155,7 +169,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.Aula36.InterfaceGraficaGUI01">
+=======
+  <component name="RunManager" selected="Python.Aula32.Poo01">
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
     <configuration name="Aula20" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +195,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Aula35.InterfaceGraficaGUI02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Aula31.Poo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +211,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula31.Poo01.py" />
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +224,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Aula35.InterfaceGraficaGUI03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Aula31.Poo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +240,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI03.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula31.Poo02.py" />
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +253,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Aula36.InterfaceGraficaGUI01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Aula32.Poo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <module name="PythonPOO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +269,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula36.InterfaceGraficaGUI01.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula32.Poo01.py" />
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,11 +326,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.Aula36.InterfaceGraficaGUI01" />
         <item itemvalue="Python.lesson37_example-1" />
         <item itemvalue="Python.lesson36_example-1" />
         <item itemvalue="Python.Aula35.InterfaceGraficaGUI03" />
         <item itemvalue="Python.Aula35.InterfaceGraficaGUI02" />
+=======
+        <item itemvalue="Python.Aula32.Poo01" />
+        <item itemvalue="Python.Aula35.InterfaceGraficaGUI02" />
+        <item itemvalue="Python.Aula35.InterfaceGraficaGUI" />
+        <item itemvalue="Python.Aula31.Poo02" />
+        <item itemvalue="Python.Aula31.Poo01" />
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +382,36 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula12.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+          <folding>
+            <element signature="e#68#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -458,7 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1146059239/builtins.py" />
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula27.Poo2.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1102337082/builtins.py" />
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula27.Poo1.py">
@@ -541,18 +620,50 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI01.py" />
     <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py">
+=======
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula35.InterfaceGraficaGUI01.py">
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-29">
           <caret line="2292" column="15" selection-start-line="2292" selection-start-column="15" selection-end-line="2292" selection-end-column="15" />
+=======
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1146059239/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/Aula32.Poo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3682">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevMediaPythonCompleto65Horas/jogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+>>>>>>> 390bd72c067d04f2512b916517745b03f4424a76
         </state>
       </provider>
     </entry>
