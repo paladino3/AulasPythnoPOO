@@ -45,7 +45,7 @@ def moveSnake(canvas, drow, dcol):
         canvas.data["headCol"] =  newHeadCol
         placeFood(canvas)
     else:
-        snakeBoard[newHeadRow][newHeadCol] = 1 + snakeBoard[newHeadRow][newHeadCol]
+        snakeBoard[newHeadRow][newHeadCol] = 1 + snakeBoard[HeadRow][HeadCol]
         canvas.data["headRow"] = newHeadRow
         canvas.data["headCol"] = newHeadCol
         removeTail(canvas)
@@ -61,7 +61,7 @@ def removeTail(canvas):
 
 
 def gameOver(canvas):
-    canvas.data["isGamerOver"] = True
+    canvas.data["isGameOver"] = True
 def timerFired(canvas):
     ignoreThisTimerEvent = canvas.data["ignoreNextTimerEvent"]
     canvas.data["ignoreNextTimerEvent"] = False
@@ -80,6 +80,7 @@ def redraAll(canvas):
         cx = canvas.data["canvasWidth"]/2
         cy = canvas.data["canvasHeight"]/2
         canvas.creat_text(cx,cy,text="Game Over!!!", font=("Helvetica",32,"bold"))
+        
 def drawSnakBoard(canvas):
     snakeBoard=canvas.data["snakeBoard"]
     rows = len(snakeBoard)
@@ -110,9 +111,9 @@ def placeFood(canvas):
     while True:
         row = random.randint(0, rows -1)
         cols = random.randint(0, cols -1)
-        if (snakeBoard[row][cols] == 0):
+        if (snakeBoard[row][col] == 0):
             break
-        snakeBoard[row][cols] = -1
+        snakeBoard[row][col] = -1
 
 def findSnakeHead(canvas):
     snakeBoard = canvas.data["snakeBoard"]
@@ -159,13 +160,14 @@ def init(canvas):
     canvas.data["snakeDool"] = -1
     canvas.data["ignoreNextTimeEvent"] = False
     redraAll(canvas)
+    
 def run(rows, cols):
     root = Tk()
     margin = 10
     cellSize = 30
     canvasWidth = 2*margin + cols*cellSize
     canvasHeight = 2*margin + cols*cellSize
-    canvas = Canvas(root, wigth=canvasHeight, height=canvasHeight)
+    canvas = Canvas(root, width=canvasWidth, height=canvasHeight)
     canvas.pack()
     root.resizable(width=0, height=0)
     root.canvas=canvas.canvas=canvas
