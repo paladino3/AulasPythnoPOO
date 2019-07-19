@@ -6,8 +6,6 @@ def mousePressed(event):
     redraAll(canvas)
 
 def keyPressed(event):
-
-
     canvas = event.widget.canvas
     canvas.data["ignoreNextTimerEvent"] = True
     if (event.char == "q"):
