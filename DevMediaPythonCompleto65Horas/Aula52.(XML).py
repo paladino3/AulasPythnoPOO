@@ -14,6 +14,13 @@ class App:
         self.btSave = Button(frame, text="Save into XML file", command="saveXML")
         self.btSave.pack(side=LEFT)
 
+        frameID = Frame(root)
+        frameID.pack(side=BOTTOM, pady=10)
+        self.labelID = Label(frameID, text="ID: ")
+        self.labelID.pack(side=LEFT, padx=5)
+        self.inputID = Entry(frameID)
+        self.inputID.pack(side=LEFT, padx=5)
+
         frameName = Frame(root)
         frameName.pack(side=BOTTOM, pady=10)
         self.labelName = Label(frameName, text="Name: ")
@@ -21,16 +28,11 @@ class App:
         self.inputName = Entry(frameName)
         self.inputName.pack(side=LEFT, padx=5)
 
-        frameID = Frame(root)
-        frameID.pack(side=BOTTOM, pady=10)
-        self.labelID = Label(frameName, text="ID: ")
-        self.labelID.pack(side=LEFT, padx=5)
-        self.inputID = Entry(frameName)
-        self.inputID.pack(side=LEFT, padx=5)
+
 
 
 def saveXML(self):
-    fileName = "customers.xml"
+    fileName = "customer.xml"
     if os.path.isfile(fileName):
         tree = ET.parse(fileName)
         root = tree.getroot()
