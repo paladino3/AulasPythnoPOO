@@ -18,7 +18,7 @@ printHeader()
 
 print("<h2>Nomes inseridos no Banco de Dados: </h2>")
 print("<hr><p></p>")#linha horizontal
-cnx = mysql.connector.connect(host='localhost', database='guestbook', user='root', password='')
+cnx = mysql.connector.connect(host='localhost', database='guestsbook', user='root', password='')
 cursor = cnx.cursor()
 
 cursor.execute('SELECT * FROM guests')

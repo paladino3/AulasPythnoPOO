@@ -1,3 +1,4 @@
+#!C:\Users\rolim\AppData\Local\Programs\Python\Python37-32\python.exe
 """
 Sistema de Gerenciamento de produtos! Projeto prático!
 """
@@ -7,20 +8,21 @@ import mysql.connector
 def loadEntry():
     print()
 def addEntry():
-    print()
-def initWindow():
+
     print()
 def updateEntry():
     print()
 def deleteEntry():
     print()
+
+def initWindow():
     global listProduct#definindo escopo global
     windowInit = Tk()
     windowInit.title("Products")
 
     frame1 = Frame(windowInit)
     frame1.pack()
-    btnLoad= Button(frame1, text="  Load  ", command=loadEntry)
+    btnLoad = Button(frame1, text="  Load  ", command=loadEntry)
     btnAdd = Button(frame1, text="  Add  ", command=addEntry)
     btnUpdate = Button(frame1, text="Update", command=updateEntry)
     btnDelete = Button(frame1, text="  Delete  ", command=deleteEntry)
@@ -40,14 +42,15 @@ def deleteEntry():
     return windowInit
 
 def setList ():
-    cnx = mysql.connector.connect(host='localhost',database='tdproducts', user='root', password='')
+
+    cnx = mysql.connector.connect(host='localhost', database='guestsbook', user='root', password='')
     cursor = cnx.cursor()
     cursor.execute('SELECT * FROM tbproducts')
-    for(id,product,descripition,quantity,price) in cursor:
+    for(id, product, descripition, quantity, price) in cursor:
         listProduct.insert(END, product)
     cursor.close()
     cnx.close()
 
-win = initWindow#criando janela
+win = initWindow()
 setList()
 win.mainloop()
