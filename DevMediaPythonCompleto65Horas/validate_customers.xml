@@ -1,0 +1,11 @@
+<root>
+	<customers>
+		<id>005</id>
+		<name>Wesley</name>
+	</customers>
+
+	<customers>
+		<id>007</id>
+		<name>Dirceu</name>
+	</customers>
+</root>
